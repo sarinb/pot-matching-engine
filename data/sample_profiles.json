@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Amara Okafor",
+    "title": "Director of Digital Assets",
+    "company": "Abu Dhabi Sovereign Wealth Fund",
+    "product": "Sovereign wealth fund deploying $200M into tokenized RWA and blockchain infrastructure",
+    "company_description": "Abu Dhabi-based sovereign wealth fund with a $200M mandate specifically allocated to tokenized real-world assets and blockchain infrastructure investments.",
+    "ticket_type": "vip",
+    "stated_goal": "Deploy $200M into tokenized RWA + blockchain infra",
+    "sector": "tokenized_securities",
+    "stage": "sovereign_fund",
+    "key_facts": [
+      "$200M mandate for tokenized RWA and blockchain infrastructure",
+      "Looking for startups with regulatory clarity, audited smart contracts, and institutional partnerships",
+      "18-month deployment timeline"
+    ]
+  },
+  {
+    "name": "Marcus Chen",
+    "title": "CEO & Co-Founder",
+    "company": "VaultBridge",
+    "product": "Institutional custody and settlement infrastructure for tokenised securities (Series B, $40M raised)",
+    "company_description": "VaultBridge provides institutional custody and settlement infrastructure for tokenised securities. Series B, $40M raised. Live with 3 European banks and 2 asset managers.",
+    "ticket_type": "sponsor",
+    "stated_goal": "Strategic investors + sovereign wealth fund intros",
+    "sector": "tokenized_securities",
+    "stage": "series_b",
+    "funding_raised": "$40M",
+    "key_facts": [
+      "Series B, $40M raised",
+      "Live with 3 European banks and 2 asset managers",
+      "Seeking cross-chain settlement partnerships",
+      "Looking for Middle Eastern sovereign wealth fund introductions"
+    ]
+  },
+  {
+    "name": "Dr. Elena Vasquez",
+    "title": "General Partner",
+    "company": "Meridian Crypto Ventures",
+    "product": "Crypto venture fund ($500M AUM) focused on infrastructure at the TradFi-DeFi intersection",
+    "company_description": "Meridian Crypto Ventures is a $500M AUM crypto venture fund. Thesis: infrastructure at the TradFi-DeFi intersection, Series A-B with institutional traction.",
+    "ticket_type": "vip",
+    "stated_goal": "Deal flow: infra at TradFi-DeFi intersection",
+    "sector": "defi_infrastructure",
+    "stage": "growth_vc",
+    "key_facts": [
+      "$500M AUM",
+      "Thesis: infrastructure at TradFi-DeFi intersection",
+      "Focus: Series A-B with institutional traction, not retail hype",
+      "Looking for co-investors for larger rounds"
+    ]
+  },
+  {
+    "name": "James Whitfield",
+    "title": "CTO",
+    "company": "NexaLayer",
+    "product": "Enterprise-grade L2 with built-in compliance modules for regulated financial institutions",
+    "company_description": "NexaLayer builds an enterprise-grade Layer-2 scaling solution with built-in compliance modules (KYC/AML) designed specifically for regulated financial institutions.",
+    "ticket_type": "speaker",
+    "stated_goal": "Bank/asset manager pilots + infra partnerships",
+    "sector": "defi_infrastructure",
+    "key_facts": [
+      "Enterprise L2 with built-in KYC/AML compliance",
+      "Targeting regulated financial institutions",
+      "Seeking banks and asset managers for pilot programs"
+    ]
+  },
+  {
+    "name": "Sophie Bergmann",
+    "title": "Head of Digital Assets Innovation",
+    "company": "Deutsche Bundesbank",
+    "product": "Central bank exploring CBDC infrastructure and regulatory frameworks for tokenised securities under MiCA",
+    "company_description": "Deutsche Bundesbank digital assets innovation unit. Exploring CBDC infrastructure and developing regulatory frameworks for tokenised securities under MiCA.",
+    "ticket_type": "vip",
+    "stated_goal": "CBDC tech providers + regulatory sandbox partners",
+    "sector": "institutional_adoption",
+    "key_facts": [
+      "Leading CBDC infrastructure evaluation for the Bundesbank",
+      "Active regulatory sandbox program seeking private-sector partners",
+      "Shaping MiCA compliance frameworks for tokenised securities"
+    ]
+  }
+]

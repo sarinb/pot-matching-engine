@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Amara Okafor",
+    "title": "Director of Digital Assets",
+    "company": "Abu Dhabi Sovereign Wealth Fund",
+    "product": "Sovereign wealth fund deploying $200M into tokenized RWA and blockchain infrastructure",
+    "looking_for": "Deploy $200M into tokenized RWA + blockchain infra"
+  },
+  {
+    "name": "Marcus Chen",
+    "title": "CEO & Co-Founder",
+    "company": "VaultBridge",
+    "product": "Institutional custody and settlement infrastructure for tokenised securities (Series B, $40M raised)",
+    "looking_for": "Strategic investors + sovereign wealth fund intros"
+  },
+  {
+    "name": "Dr. Elena Vasquez",
+    "title": "General Partner",
+    "company": "Meridian Crypto Ventures",
+    "product": "Crypto venture fund ($500M AUM) focused on infrastructure at the TradFi-DeFi intersection",
+    "looking_for": "Deal flow: infra at TradFi-DeFi intersection"
+  },
+  {
+    "name": "James Whitfield",
+    "title": "CTO",
+    "company": "NexaLayer",
+    "product": "Enterprise-grade L2 with built-in compliance modules for regulated financial institutions",
+    "looking_for": "Bank/asset manager pilots + infra partnerships"
+  },
+  {
+    "name": "Sophie Bergmann",
+    "title": "Head of Digital Assets Innovation",
+    "company": "Deutsche Bundesbank",
+    "product": "Central bank exploring CBDC infrastructure and regulatory frameworks for tokenised securities under MiCA",
+    "looking_for": "CBDC tech providers + regulatory sandbox partners"
+  }
+]
