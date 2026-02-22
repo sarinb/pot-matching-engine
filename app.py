@@ -7,19 +7,28 @@ import logging
 import sys
 from pathlib import Path
 
+# Ensure project root is on path (needed for Streamlit Cloud)
+_project_root = Path(__file__).resolve().parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 import pandas as pd
 import streamlit as st
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-
-from src.matching.config import settings  # noqa: E402
-from src.matching.engine import (  # noqa: E402
-    load_minimal_profiles,
-    load_profiles_from_json,
-    load_sample_profiles,
-    run,
-)
-from src.matching.models import AttendeeProfile, MatchBriefing  # noqa: E402
+try:
+    from src.matching.config import settings
+    from src.matching.engine import (
+        load_minimal_profiles,
+        load_profiles_from_json,
+        load_sample_profiles,
+        run,
+    )
+    from src.matching.models import AttendeeProfile, MatchBriefing
+except Exception as e:
+    import traceback
+    st.error(f"**Startup error:** {e}")
+    st.code(traceback.format_exc(), language="text")
+    st.stop()
 
 logging.basicConfig(level=logging.INFO)
 
